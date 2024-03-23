@@ -6,7 +6,7 @@ main:
     conference: Journal of the Mechanics and Physics of Solids
     paper link: https://www.sciencedirect.com/science/article/pii/S0022509622001843
     code: https://github.com/maryhzd/Phase-field
-    image: ./assets/img/CrackGrowth.jpg
+    image: ./assets/img/JMPS-phase.jpg
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
