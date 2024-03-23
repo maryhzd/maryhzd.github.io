@@ -21,4 +21,4 @@ Hello! I'm in my fourth year as a PhD candidate specializing in Computational Me
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/conferences.md %}
