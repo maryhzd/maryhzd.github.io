@@ -4,7 +4,7 @@ main:
     authors: Maryam Hakimzadeh, Vaibhav Agrawal, Kaushik Dayal, Carlos Mora-Corral 
     conference_short: JMPS
     conference: Journal of the Mechanics and Physics of Solids
-    pdf: https://www.sciencedirect.com/science/article/pii/S0022509622001843
+    pdf: https://arxiv.org/abs/2206.15386
     code: https://github.com/maryhzd/Phase-field
     image: ./assets/img/JMPS-phase.jpg
 
