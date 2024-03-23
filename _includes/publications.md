@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<!-- {% for link in site.data.publications.main %} 
+{% for link in site.data.publications.main %} 
 
 <li>
 <div class="pub-row">
@@ -14,8 +14,8 @@
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
-  </div>  -->
-<!--   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  </div>  
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
@@ -38,7 +38,7 @@
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
-      {% endif %} -->
+      {% endif %} 
     </div>
   </div>
 </div>
