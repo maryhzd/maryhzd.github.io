@@ -4,17 +4,13 @@ main:
     authors: Maryam Hakimzadeh, Vaibhav Agrawal, Kaushik Dayal, Carlos Mora-Corral 
     conference_short: JMPS
     conference: Journal of the Mechanics and Physics of Solids
-    paper link: https://www.sciencedirect.com/science/article/pii/S0022509622001843
+    pdf: https://www.sciencedirect.com/science/article/pii/S0022509622001843
     code: https://github.com/maryhzd/Phase-field
     image: ./assets/img/JMPS-phase.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "The impact of biomass burning on the oxidative potential of PM2. 5 in the metropolitan area of Milan"
+    authors: Maryam Hakimzadeh, Ehsan Soleimanian, Amirhosein Mousavi, Alessandro Borgini, Cinzia De Marco, Ario A Ruprecht, Constantinos Sioutas
+    conference_short: Atmospheric Environment
+    conference: Atmospheric environment
+    pdf: https://www.sciencedirect.com/science/article/pii/S1352231020300698
+    image: ./assets/img/ddt-env.jpg
