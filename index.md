@@ -4,7 +4,8 @@ layout: homepage
 
 ## Biography
 
-Hello! I'm in my fourth year as a PhD candidate specializing in Computational Mechanics at the Department of Civil and Environmental Engineering, Carnegie Mellon University. My research is advised by Professor Kaushik Dayal and Professor David Rounce. Before starting my PhD, I obtained my Master's and Bachelor's degrees in Civil and Environmental Engineering from Sharif University of Technology.
+Hello! I'm in my fourth year as a PhD candidate specializing in Computational Mechanics at the Department of Civil and Environmental Engineering, Carnegie Mellon University. My research is advised by Professor <a href="https://www.cmu.edu/cee/people/faculty/dayal.html">Kaushik Dayal</a>
+ and Professor David Rounce. Before starting my PhD, I obtained my Master's and Bachelor's degrees in Civil and Environmental Engineering from Sharif University of Technology.
 
 ## Research Interests
 
