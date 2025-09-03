@@ -1,5 +1,14 @@
 main:
 
+  
+  - title: Accelerating Numerical Solvers with AI-based Surrogate Models
+    authors: Maryam Hakimzadeh, Wei Wang, Haihui Ruan, and Somdatta Goswami,
+    conference_short: Mach 2025
+    conference: https://machconference.org/ 
+    pdf: ./assets/MACH2025.pdf
+    image: ./assets/img/Hybrid_NO.png
+    
+  
   - title: Simulating Crevasse Nucleation and Propagation Using a Modified Fracture Mechanics Model
     authors: Maryam Hakimzadeh, David Rounce, Kaushik Dayal
     conference_short: AGU23
