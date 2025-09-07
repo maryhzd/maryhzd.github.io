@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-Hi! I'm a Postdoctoral Researcher specializing in Scientific Machine Learning (SciML) and Artificial Intelligence for Science
+Hello! I'm a Postdoctoral Researcher specializing in Scientific Machine Learning (SciML) and Artificial Intelligence for Science
 (AI4Science), with a PhD in Computational Mechanics from Carnegie Mellon University. My research focuses on integrating
 machine learning and artificial intelligence with computational mechanics to accelerate numerical simulations and tackle
 complex computational challenges in engineering. My current research area focuses on developing neural operators and
