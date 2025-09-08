@@ -29,7 +29,7 @@ My postdoc research is advised by Professor <a href="https://engineering.jhu.edu
 
 - **[Aug 2025]** Our paper on <a href="https://www.sciencedirect.com/science/article/pii/S0045782525005912">AI-accelerated physics modeling</a> is accepted to Computer Methods in Applied Mechanics and Engineering.
 - **[May 2025]** Our paper on <a href="https://asmedigitalcollection.asme.org/appliedmechanics/article/92/9/091006/1215516/Crack-Face-Contact-Modeling-is-Essential-to">Importance of crack face contact in phase-field fracture</a> is accepted to Journal of Applied Mechanics.
-- **[Dec 2024]** I joined <a href="https://www.cmu.edu/cee/people/faculty/dayal.html](https://hemi.jhu.edu/the-hemi-team/postdoctoral-fellows/">Johns Hopkins University</a> as postdoc researcher ins scientific machine learning! 
+- **[Dec 2024]** I joined <a href="https://hemi.jhu.edu/the-hemi-team/postdoctoral-fellows/">Johns Hopkins University</a> as postdoc researcher ins scientific machine learning! 
 - **[Nov 2024]** Our paper on anisotropic phase-field fracture modeling is accepted to International Journal for Numerical and Analytical Methods in Geomechanics.
 - **[Sep 2024]** I defended my PhD thesis in Computational Mechanics! 
 - **[Dec. 2023]** Our work on crevasse nucleation and propogation is presented in AGU.
