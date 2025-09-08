@@ -27,7 +27,7 @@ My postdoc research is advised by Professor <a href="https://engineering.jhu.edu
 
 ## News
 
-- **[Aug 2025]** Our paper on AI-accelerated physics modeling is accepted to Computer Methods in Applied Mechanics and Engineering.
+- **[Aug 2025]** Our paper on <a href="[https://www.cmu.edu/cee/people/faculty/dayal.html](https://www.sciencedirect.com/science/article/pii/S0045782525005912)">AI-accelerated physics modeling</a> is accepted to Computer Methods in Applied Mechanics and Engineering.
 - **[May 2025]** Our paper on importance of crack face contact in phase-field fracture is accepted to Journal of Applied Mechanics.
 - **[Dec 2024]** I joined Johns Hopkins University as postdoc researcher ins scientific machine learning! 
 - **[Nov 2024]** Our paper on anisotropic phase-field fracture modeling is accepted to International Journal for Numerical and Analytical Methods in Geomechanics.
