@@ -9,9 +9,9 @@ main:
     image: ./assets/img/Hybrid_NO.png
     
   
-  - title: Simulating Crevasse Nucleation and Propagation Using a Modified Fracture Mechanics Model
-    authors: Maryam Hakimzadeh, David Rounce, Kaushik Dayal
-    conference_short: AGU23
-    conference: American Geophysical Union 
-    pdf: ./assets/AGU.pdf
-    image: ./assets/img/Glacier.png
+  # - title: Simulating Crevasse Nucleation and Propagation Using a Modified Fracture Mechanics Model
+  #   authors: Maryam Hakimzadeh, David Rounce, Kaushik Dayal
+  #   conference_short: AGU23
+  #   conference: American Geophysical Union 
+  #   pdf: ./assets/AGU.pdf
+  #   image: ./assets/img/Glacier.png
