@@ -17,7 +17,7 @@ machine learning and data science techniques to solve structural, heat transfer,
 My PhD research was advised by Professor <a href="https://www.cmu.edu/cee/people/faculty/dayal.html">Kaushik Dayal</a>
  and Professor <a href="https://www.cmu.edu/cee/people/faculty/rounce.html">David Rounce</a>. 
  
-My postdoc research is advised by Professor <a href="https://engineering.jhu.edu/faculty/somdatta-goswami/">Somdatta Goswami</a> and Proffesor <a href="[https://engineering.jhu.edu/faculty/somdatta-goswami/](https://engineering.jhu.edu/faculty/lori-brady/)">Lori Graham-Brady</a>.
+My postdoc research is advised by Professor <a href="https://engineering.jhu.edu/faculty/somdatta-goswami/">Somdatta Goswami</a> and Proffesor <a href="https://engineering.jhu.edu/faculty/lori-brady/">Lori Graham-Brady</a>.
 
 ## Research Interests
 
