@@ -30,8 +30,8 @@ My postdoc research is advised by Professor <a href="https://engineering.jhu.edu
 - **[Aug 2025]** Our paper on <a href="https://www.sciencedirect.com/science/article/pii/S0045782525005912">AI-accelerated physics modeling</a> is accepted to Computer Methods in Applied Mechanics and Engineering.
 - **[May 2025]** Our paper on <a href="https://asmedigitalcollection.asme.org/appliedmechanics/article/92/9/091006/1215516/Crack-Face-Contact-Modeling-is-Essential-to">Importance of crack face contact in phase-field fracture</a> is accepted to Journal of Applied Mechanics.
 - **[Dec 2024]** I joined <a href="https://hemi.jhu.edu/the-hemi-team/postdoctoral-fellows/">Johns Hopkins University</a> as postdoc researcher ins scientific machine learning! 
-- **[Nov 2024]** Our paper on anisotropic phase-field fracture modeling is accepted to International Journal for Numerical and Analytical Methods in Geomechanics.
-- **[Sep 2024]** I defended my PhD thesis in Computational Mechanics! 
+- **[Nov 2024]** Our paper on <a href = "https://onlinelibrary.wiley.com/doi/full/10.1002/nag.3933"> Anisotropic phase-field fracture modeling <a> is accepted to International Journal for Numerical and Analytical Methods in Geomechanics.
+- **[Sep 2024]** I defended my <a href = "https://www.math.cmu.edu/cna/Publications/publication_auto.php?cnacode=25-CNA-009"> PhD thesis in Computational Mechanics<a>! 
 - **[Dec. 2023]** Our work on crevasse nucleation and propogation is presented in AGU.
 - **[Jun 2022]** Our paper about phase-field fracture mechanics is accepted to JMPS.
 - **[Jan 2020]** Our paper about statistical analysis of air pollutants in Milan is accepted to Journal of Atmospheric Environment.
