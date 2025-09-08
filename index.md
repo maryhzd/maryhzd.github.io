@@ -34,7 +34,7 @@ My postdoc research is advised by Professor <a href="https://engineering.jhu.edu
 - **[Sep 2024]** I defended my <a href = "https://www.math.cmu.edu/cna/Publications/publication_auto.php?cnacode=25-CNA-009">PhD thesis in Computational Mechanics<a>! 
 - **[Dec. 2023]** Our work on <a href = "https://ui.adsabs.harvard.edu/abs/2023AGUFM.C43C1616H/abstract">crevasse nucleation and propogation</a> is presented in AGU.
 - **[Jun 2022]** Our paper on <a href = "https://www.sciencedirect.com/science/article/pii/S0022509622001843">Phase-field fracture mechanics</a> is accepted to JMPS.
-- **[Jan 2020]** Our paper on <a href = "https://www.sciencedirect.com/science/article/pii/S1352231020300698"Statistical analysis of air pollutants in Milan </a> is accepted to Journal of Atmospheric Environment.
+- **[Jan 2020]** Our paper on <a href = "https://www.sciencedirect.com/science/article/pii/S1352231020300698"Statistical analysis of air pollutants in Milan</a> is accepted to Journal of Atmospheric Environment.
 
 
 {% include_relative _includes/publications.md %}
